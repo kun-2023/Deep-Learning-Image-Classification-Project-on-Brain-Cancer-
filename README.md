@@ -3,8 +3,10 @@
 ## Case Description
 The purpose is to train a model to classify X-ray image of three brain cancers. They are brain glioma, brain Menin, and brain tumor. For each of the brain cancers, there are 2004 images to train the model.
 
-## Technology: Python, Tensorflow, Keras
-## Data Science Method: Image Display, Deep Learning Modeling, Confusion Matrix, Multi-class Evaluation.
+## Technology
+Python, Tensorflow, Keras
+## Data Science Method
+Image Display, Deep Learning Modeling, Confusion Matrix, Multi-class Evaluation.
 
 
 ## The first 40 sample images from training files
