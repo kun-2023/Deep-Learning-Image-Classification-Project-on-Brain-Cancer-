@@ -1,7 +1,11 @@
 ## Deep Learning Image Classification Project on Brain Cancer
 
 ## Case Description
-The purpose is to train a model to classify X-ray image of three brain cancers. They are brain glioma, brain Menin, and brain tumor. For each of the brain cancers, there are 2004 images to train the model.
+The purpose is to train a model to classify X-ray image of three brain cancers. They are brain glioma, brain Menin, and brain tumor. For each of the brain cancers, there are 2004 images for each cancer type to train the model. 
+
+## Data Scource Description
+The Image folders are too large to upload to the github, but here is the links.
+https://www.kaggle.com/datasets/orvile/brain-cancer-mri-dataset
 
 ## Technology
 Python, Tensorflow, Keras
